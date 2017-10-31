@@ -1,0 +1,18 @@
+.container{
+    padding: 1.5em;
+    width: 70%;
+    
+}
+
+.wrap{
+    width: 30%;
+    border: 1px solid black;
+    margin: 1em 1em 1.5em 0em;
+    background-color: lightgray;
+    display: inline-block;   
+    float: left; 
+
+}
+h1{
+    margin-left: 5em;
+}
